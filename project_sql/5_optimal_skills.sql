@@ -15,4 +15,5 @@ WITH skill_stats AS (
 SELECT *
 FROM skill_stats
 WHERE demand_count > 10
-ORDER BY avg_salary DESC;
+ORDER BY avg_salary DESC
+LIMIT 20;
