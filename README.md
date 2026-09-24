@@ -125,7 +125,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest-paying d
 - **Excel still holds relevance at the top tier**, showing up in 3 postings, proving that foundational tools remain valuable even in senior, high-paying positions.
 - **Other skills like Azure, AWS, Databricks, and PySpark** appear in specialized roles (like AT&T's Associate Director position), suggesting that cloud and big-data expertise becomes a differentiator as seniority and salary increase.
 
-![Top company skill count](assets\Skill_Count.png)
+![Top company skill count](assets/Skill_Count.png)
 
 *Bar chart visualizing the count of skills for the top 10 highest paying jobs for data analysts and business analysts*
 
@@ -198,7 +198,7 @@ Here's a breakdown of the results for the top-paying skills for data analysts an
 - **Machine learning and AI frameworks feature heavily** (Keras, Kafka, PyTorch, Hugging Face, TensorFlow), indicating that analysts who branch into ML/AI-adjacent skill sets are rewarded with notably higher salaries compared to traditional analytics tools.
 - **Big data and cloud engineering skills** (Cassandra, MongoDB, PySpark, Terraform, Airflow) also rank consistently high, reinforcing that comfort with large-scale data infrastructure is a strong salary differentiator as roles scale in seniority and technical demand.
 
-![Top paying skills](assets\Top_Paying_Skills.png)
+![Top paying skills](assets/Top_Paying_Skills.png)
 
 *Bar chart visualizing the average salary for the top 25 paying skills for data analysts and business analysts*
 
